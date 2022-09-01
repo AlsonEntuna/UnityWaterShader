@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1781522077961701794
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water_Ocean
+  m_Shader: {fileID: -6465566751694194690, guid: 976ab95098130434c9989a2501bc4380, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _WaterDetalNormal:
+        m_Texture: {fileID: 2800000, guid: 69d030134f3b6ac43b4dcd41c12a1979, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterMainNormal:
+        m_Texture: {fileID: 2800000, guid: 69d030134f3b6ac43b4dcd41c12a1979, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_b64bec22479243e1b0bac897563f3b42: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _WaterDepth: 0.98
+    - _WaterDetailSpeed: -60
+    - _WaterDisplacement: 0.1
+    - _WaterFoam: 3.2
+    - _WaterFoamCutOff: 200
+    - _WaterFoamScale: 0
+    - _WaterFoamScale_1: 1
+    - _WaterFoamSpeed: 0
+    - _WaterFoamTimeDivisor: 100
+    - _WaterMainSpeed: 50
+    - _WaterNoiseTiling: 50
+    - _WaterNormalStrength: 0.558
+    - _WaterRefractionGradientStrength: 20
+    - _WaterRefractionScale: 1
+    - _WaterRefractionSpeed: 0
+    - _WaterRefractionStrength: 0.01
+    - _WaterSmoothness: 0.915
+    - _WaterStrength: 0.31
+    m_Colors:
+    - _ColorDeep: {r: 0.059318237, g: 0.24343586, b: 0.38431373, a: 0.9372549}
+    - _ColorShallow: {r: 0.011569957, g: 0.12567587, b: 0.18867922, a: 0.89411765}
+    - _WaterDetailTiling: {r: 50, g: 50, b: 0, a: 0}
+    - _WaterFoamColor: {r: 1, g: 1, b: 1, a: 0.42352942}
+    - _WaterMainTiling: {r: 5, g: 5, b: 0, a: 0}
+  m_BuildTextureStacks: []
