@@ -58,28 +58,28 @@ Material:
     - Vector1_b64bec22479243e1b0bac897563f3b42: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _WaterDepth: 0.98
+    - _WaterDepth: 1
     - _WaterDetailSpeed: -60
-    - _WaterDisplacement: 0.1
+    - _WaterDisplacement: 0.5
     - _WaterFoam: 3.2
     - _WaterFoamCutOff: 200
     - _WaterFoamScale: 0
     - _WaterFoamScale_1: 1
     - _WaterFoamSpeed: 0
     - _WaterFoamTimeDivisor: 100
-    - _WaterMainSpeed: 50
-    - _WaterNoiseTiling: 50
-    - _WaterNormalStrength: 0.558
+    - _WaterMainSpeed: 20
+    - _WaterNoiseTiling: 30
+    - _WaterNormalStrength: 0.63
     - _WaterRefractionGradientStrength: 20
     - _WaterRefractionScale: 1
     - _WaterRefractionSpeed: 0
     - _WaterRefractionStrength: 0.01
-    - _WaterSmoothness: 0.915
-    - _WaterStrength: 0.31
+    - _WaterSmoothness: 0.782
+    - _WaterStrength: 1.5
     m_Colors:
-    - _ColorDeep: {r: 0.059318237, g: 0.24343586, b: 0.38431373, a: 0.9372549}
+    - _ColorDeep: {r: 0.084905654, g: 0.18861574, b: 0.33962262, a: 0.9882353}
     - _ColorShallow: {r: 0.011569957, g: 0.12567587, b: 0.18867922, a: 0.89411765}
-    - _WaterDetailTiling: {r: 50, g: 50, b: 0, a: 0}
-    - _WaterFoamColor: {r: 1, g: 1, b: 1, a: 0.42352942}
-    - _WaterMainTiling: {r: 5, g: 5, b: 0, a: 0}
+    - _WaterDetailTiling: {r: 60, g: 60, b: 0, a: 0}
+    - _WaterFoamColor: {r: 1, g: 1, b: 1, a: 0.7176471}
+    - _WaterMainTiling: {r: 80, g: 90, b: 0, a: 0}
   m_BuildTextureStacks: []
